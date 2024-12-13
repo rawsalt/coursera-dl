@@ -1,0 +1,13 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.*
+  - beautifulsoup4=4.12.*
+  - requests=2.32.*
+  - six=1.16.*
+  - urllib3=2.2.*
+  - pyasn1=0.6.*
+  - keyring=25.5.*
+  - configargparse=1.5.*
+  - attrs=18.1.0
